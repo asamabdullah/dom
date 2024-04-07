@@ -1,0 +1,114 @@
+/*
+var kfk = document.getElementById('id1')
+
+kfk.innerHTML = 'Hello'
+*/
+
+
+
+
+
+/*
+let lum = document.getElementsByClassName("ClassName1")[0];
+
+lum.innerHTML = "dim"
+*/
+
+
+
+
+
+
+/*
+var lum = document.getElementsByName("Heading")[0];
+
+lum.innerHTML = "enroll"
+*/
+
+
+
+
+
+
+
+/*
+var head = document.getElementsByTagName("h1")[1];
+
+head.innerHTML = "My name is john"
+*/
+
+
+
+
+
+
+
+/*
+var its = document.querySelector('#id1');
+
+its.innerHTML = 'kot'
+*/
+
+
+
+
+
+
+
+/*
+var fit = document.querySelector('.ClassName1');
+
+fit.innerHTML = 'fddddd'
+*/
+
+
+
+
+
+
+/*
+var jit = document.querySelector('h1')
+
+jit.innerHTML = 'ghghy'
+*/
+
+
+
+
+
+
+
+
+/*
+var otr = document.querySelectorAll('h1')[2];
+
+otr.innerHTML = 'kiwow'
+*/
+
+
+
+
+
+
+
+
+
+/*
+function me(){
+    document.getElementById('Dim').innerHTML = Date()
+}
+*/
+
+
+
+
+
+
+
+
+
+/*
+var node = document.querySelector('.lum');
+
+console.log(node.parentNode)
+*/
