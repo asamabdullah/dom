@@ -1,0 +1,138 @@
+/*
+var Name = "abu";
+console.log(Name)
+
+
+
+
+var strtype = "habuilla";
+console.log(strtype)
+
+
+
+
+var numtype = 55652512525;
+console.log(numtype)
+
+
+
+
+
+var booltype = false;
+console.log(booltype)
+
+
+
+
+
+var someThing = "hsdhsksjyhse";
+console.log(someThing.toUpperCase())
+
+
+
+
+
+
+
+var num1 = 58;
+var num2 = 68;
+
+var total = num1 + num2;
+console.log(total)
+
+
+
+
+
+
+
+var num1 = 58;
+var num2 = 68;
+
+var total = num1 - num2;
+console.log(total)
+
+
+
+
+
+var num1 = 58;
+var num2 = 68;
+
+var total = num1 * num2;
+console.log(total)
+
+
+
+
+
+
+
+var num1 = 58;
+var num2 = 68;
+
+var total = num1 / num2;
+console.log(total)
+
+
+
+
+
+
+
+var num1 = 445568;
+var num2 = 68;
+
+var total = num1 % num2;
+console.log(total)
+
+
+
+
+
+
+
+
+var num = -4.499999;
+var fam = Math.abs(num)
+console.log(fam)
+
+
+
+
+
+
+
+var num = 4.4999999;
+var fam = Math.round(num)
+console.log(fam)
+
+
+
+
+
+
+
+var num = 4.499999;
+var fam = Math.ceil(num)
+console.log(fam)
+
+
+
+
+
+
+
+
+var num = 4.99999;
+var fam = Math.floor(num)
+console.log(fam)
+
+
+
+
+
+
+var num = Math.random() *100;
+console.log(num)
+*/
